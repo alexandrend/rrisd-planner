@@ -1,0 +1,5 @@
+{
+  "name": "RRISD High School Path Planner",
+  "description": "A comprehensive 4-year course planning tool for Round Rock ISD students, featuring prerequisite checking, graduation requirement tracking, and endorsement calculations.",
+  "requestFramePermissions": []
+}
